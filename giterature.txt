@@ -303,3 +303,4 @@ by William Shakespeare
   And summer's lease hath all too short a date:
   Sometime too hot the eye of heaven shines,
   And often is his gold complexion dimmed,
+  And every fair from fair sometime declines,
