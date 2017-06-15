@@ -383,3 +383,4 @@ by William Shakespeare
 
                      23
   As an unperfect actor on the stage,
+  Who with his fear is put beside his part,
