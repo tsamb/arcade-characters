@@ -484,3 +484,4 @@ by William Shakespeare
 
 
                      29
+  When in disgrace with Fortune and men's eyes,
