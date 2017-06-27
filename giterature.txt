@@ -842,3 +842,4 @@ by William Shakespeare
 
                      50
   How heavy do I journey on the way,
+  When what I seek (my weary travel's end)
