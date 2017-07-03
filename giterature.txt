@@ -1081,3 +1081,4 @@ by William Shakespeare
                      64
   When I have seen by Time's fell hand defaced
   The rich-proud cost of outworn buried age,
+  When sometime lofty towers I see down-rased,
