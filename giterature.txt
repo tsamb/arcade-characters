@@ -1235,3 +1235,4 @@ by William Shakespeare
   That time of year thou mayst in me behold,
   When yellow leaves, or none, or few do hang
   Upon those boughs which shake against the cold,
+  Bare ruined choirs, where late the sweet birds sang.
