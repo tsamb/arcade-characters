@@ -1652,3 +1652,4 @@ by William Shakespeare
   But hope of orphans, and unfathered fruit,
   For summer and his pleasures wait on thee,
   And thou away, the very birds are mute.
+    Or if they sing, 'tis with so dull a cheer,
