@@ -1735,3 +1735,4 @@ by William Shakespeare
   As Philomel in summer's front doth sing,
   And stops her pipe in growth of riper days:
   Not that the summer is less pleasant now
+  Than when her mournful hymns did hush the night,
