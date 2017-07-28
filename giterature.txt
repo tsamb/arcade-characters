@@ -1917,3 +1917,4 @@ by William Shakespeare
   And that which governs me to go about,
   Doth part his function, and is partly blind,
   Seems seeing, but effectually is out:
+  For it no form delivers to the heart
