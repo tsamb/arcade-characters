@@ -1969,3 +1969,4 @@ by William Shakespeare
   Which alters when it alteration finds,
   Or bends with the remover to remove.
   O no, it is an ever-fixed mark
+  That looks on tempests and is never shaken;
