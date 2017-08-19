@@ -2491,3 +2491,4 @@ by William Shakespeare
                      147
   My love is as a fever longing still,
   For that which longer nurseth the disease,
+  Feeding on that which doth preserve the ill,
