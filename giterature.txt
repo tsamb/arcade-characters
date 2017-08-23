@@ -2558,3 +2558,4 @@ by William Shakespeare
 
                      151
   Love is too young to know what conscience is,
+  Yet who knows not conscience is born of love?
