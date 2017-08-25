@@ -2644,3 +2644,4 @@ Dramatis Personae
   THE DUKE OF FLORENCE
   BERTRAM, Count of Rousillon
   LAFEU, an old lord
+  PAROLLES, a follower of Bertram
