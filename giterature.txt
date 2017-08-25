@@ -2645,3 +2645,4 @@ Dramatis Personae
   BERTRAM, Count of Rousillon
   LAFEU, an old lord
   PAROLLES, a follower of Bertram
+  TWO FRENCH LORDS, serving with Bertram
