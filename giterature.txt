@@ -2702,3 +2702,4 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     liv'd still, if knowledge could be set up against mortality.
   BERTRAM. What is it, my good lord, the King languishes of?
   LAFEU. A fistula, my lord.
+  BERTRAM. I heard not of it before.
