@@ -2739,3 +2739,4 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
     Advise him.
   LAFEU. He cannot want the best
     That shall attend his love.
+  COUNTESS. Heaven bless him! Farewell, Bertram.            Exit
