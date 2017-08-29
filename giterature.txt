@@ -2851,3 +2851,4 @@ Enter BERTRAM, the COUNTESS OF ROUSILLON, HELENA, and LAFEU, all in black
                       Enter PAGE
 
   PAGE. Monsieur Parolles, my lord calls for you.      Exit PAGE
+  PAROLLES. Little Helen, farewell; if I can remember thee, I will
