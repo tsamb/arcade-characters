@@ -2917,3 +2917,4 @@ and divers ATTENDANTS
     And Florence is denied before he comes;
     Yet, for our gentlemen that mean to see
     The Tuscan service, freely have they leave
+    To stand on either part.
