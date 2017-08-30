@@ -3014,3 +3014,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     to go to the world, Isbel the woman and I will do as we may.
   COUNTESS. Wilt thou needs be a beggar?
   CLOWN. I do beg your good will in this case.
+  COUNTESS. In what case?
