@@ -3008,3 +3008,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     slowness that I do not, for I know you lack not folly to commit
     them and have ability enough to make such knaveries yours.
   CLOWN. 'Tis not unknown to you, madam, I am a poor fellow.
+  COUNTESS. Well, sir.
