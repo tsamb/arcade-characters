@@ -3009,3 +3009,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     them and have ability enough to make such knaveries yours.
   CLOWN. 'Tis not unknown to you, madam, I am a poor fellow.
   COUNTESS. Well, sir.
+  CLOWN. No, madam, 'tis not so well that I am poor, though many of
