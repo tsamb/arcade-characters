@@ -3010,3 +3010,4 @@ Enter COUNTESS, STEWARD, and CLOWN
   CLOWN. 'Tis not unknown to you, madam, I am a poor fellow.
   COUNTESS. Well, sir.
   CLOWN. No, madam, 'tis not so well that I am poor, though many of
+    the rich are damn'd; but if I may have your ladyship's good will
