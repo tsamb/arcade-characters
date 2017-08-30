@@ -3007,3 +3007,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     complaints I have heard of you I do not all believe; 'tis my
     slowness that I do not, for I know you lack not folly to commit
     them and have ability enough to make such knaveries yours.
+  CLOWN. 'Tis not unknown to you, madam, I am a poor fellow.
