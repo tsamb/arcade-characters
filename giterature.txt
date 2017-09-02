@@ -3029,3 +3029,4 @@ Enter COUNTESS, STEWARD, and CLOWN
   COUNTESS. Thy marriage, sooner than thy wickedness.
   CLOWN. I am out o' friends, madam, and I hope to have friends for
     my wife's sake.
+  COUNTESS. Such friends are thine enemies, knave.
