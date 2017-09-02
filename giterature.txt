@@ -3107,3 +3107,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     thank you for your honest care. I will speak with you further
     anon.                                           Exit STEWARD
 
+                            Enter HELENA
