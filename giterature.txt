@@ -3030,3 +3030,4 @@ Enter COUNTESS, STEWARD, and CLOWN
   CLOWN. I am out o' friends, madam, and I hope to have friends for
     my wife's sake.
   COUNTESS. Such friends are thine enemies, knave.
+  CLOWN. Y'are shallow, madam-in great friends; for the knaves come
