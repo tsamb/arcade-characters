@@ -3122,3 +3122,4 @@ Enter COUNTESS, STEWARD, and CLOWN
   COUNTESS. You know, Helen,
     I am a mother to you.
   HELENA. Mine honourable mistress.
+  COUNTESS. Nay, a mother.
