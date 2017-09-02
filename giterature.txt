@@ -3083,3 +3083,4 @@ Enter COUNTESS, STEWARD, and CLOWN
  Exit
   COUNTESS. Well, now.
   STEWARD. I know, madam, you love your gentlewoman entirely.
+  COUNTESS. Faith I do. Her father bequeath'd her to me; and she
