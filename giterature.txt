@@ -3082,3 +3082,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     I am going, forsooth. The business is for Helen to come hither.
  Exit
   COUNTESS. Well, now.
+  STEWARD. I know, madam, you love your gentlewoman entirely.
