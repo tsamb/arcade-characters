@@ -3057,3 +3057,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     I mean.
   CLOWN.  [Sings]
 
+               'Was this fair face the cause' quoth she
