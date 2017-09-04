@@ -3212,3 +3212,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     To go to Paris?
   HELENA. Madam, I had.
   COUNTESS. Wherefore? Tell true.
+  HELENA. I will tell truth; by grace itself I swear.
