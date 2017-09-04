@@ -3138,3 +3138,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     The many-colour'd Iris, rounds thine eye?
     Why, that you are my daughter?
   HELENA. That I am not.
+  COUNTESS. I say I am your mother.
