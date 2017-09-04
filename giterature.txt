@@ -3176,3 +3176,4 @@ Enter COUNTESS, STEWARD, and CLOWN
   COUNTESS. Do you love my son?
   HELENA. Your pardon, noble mistress.
   COUNTESS. Love you my son?
+  HELENA. Do not you love him, madam?
