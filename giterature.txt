@@ -3139,3 +3139,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     Why, that you are my daughter?
   HELENA. That I am not.
   COUNTESS. I say I am your mother.
+  HELENA. Pardon, madam.
