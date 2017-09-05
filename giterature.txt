@@ -3227,3 +3227,4 @@ Enter COUNTESS, STEWARD, and CLOWN
     For Paris, was it? Speak.
   HELENA. My lord your son made me to think of this,
     Else Paris, and the medicine, and the King,
+    Had from the conversation of my thoughts
