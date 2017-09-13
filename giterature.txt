@@ -3563,3 +3563,4 @@ Enter COUNTESS and CLOWN
   CLOWN. Not much commendation to them?
   COUNTESS. Not much employment for you. You understand me?
   CLOWN. Most fruitfully; I am there before my legs.
+  COUNTESS. Haste you again.                              Exeunt
