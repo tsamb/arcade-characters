@@ -3539,3 +3539,4 @@ Enter COUNTESS and CLOWN
     if I am a courtier: it shall do you no harm to learn.
   COUNTESS. To be young again, if we could, I will be a fool in
     question, hoping to be the wiser by your answer. I pray you, sir,
+    are you a courtier?
