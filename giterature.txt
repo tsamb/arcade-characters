@@ -3777,3 +3777,4 @@ Enter BERTRAM, LAFEU, and PAROLLES
     succeeding. My master!
   LAFEU. Are you companion to the Count Rousillon?
   PAROLLES. To any count; to all counts; to what is man.
+  LAFEU. To what is count's man: count's master is of another style.
