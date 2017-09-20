@@ -3797,3 +3797,4 @@ Enter BERTRAM, LAFEU, and PAROLLES
     for I look through thee. Give me thy hand.
   PAROLLES. My lord, you give me most egregious indignity.
   LAFEU. Ay, with all my heart; and thou art worthy of it.
+  PAROLLES. I have not, my lord, deserv'd it.
