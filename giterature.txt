@@ -3773,3 +3773,4 @@ Enter BERTRAM, LAFEU, and PAROLLES
   LAFEU. Your lord and master did well to make his recantation.
   PAROLLES. Recantation! My Lord! my master!
   LAFEU. Ay; is it not a language I speak?
+  PAROLLES. A most harsh one, and not to be understood without bloody
