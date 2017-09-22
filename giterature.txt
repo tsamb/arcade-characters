@@ -3919,3 +3919,4 @@ Enter HELENA and CLOWN
     that's 'Before me th'art a knave.' This had been truth, sir.
   PAROLLES. Go to, thou art a witty fool; I have found thee.
   CLOWN. Did you find me in yourself, sir, or were you taught to find
+    me? The search, sir, was profitable; and much fool may you find
