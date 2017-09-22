@@ -3841,3 +3841,4 @@ Enter BERTRAM, LAFEU, and PAROLLES
     not worth another word, else I'd call you knave. I leave you.
  Exit
 
+                           Enter BERTRAM
