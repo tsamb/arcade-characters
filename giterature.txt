@@ -3974,3 +3974,4 @@ Enter LAFEU and BERTRAM
     very good tailor.
   BERTRAM.  [Aside to PAROLLES]  Is she gone to the King?
   PAROLLES. She is.
+  BERTRAM. Will she away to-night?
