@@ -3968,3 +3968,4 @@ Enter LAFEU and BERTRAM
                          Enter PAROLLES
 
   PAROLLES.  [To BERTRAM]  These things shall be done, sir.
+  LAFEU. Pray you, sir, who's his tailor?
