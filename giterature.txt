@@ -4038,3 +4038,4 @@ Enter LAFEU and BERTRAM
   HELENA. Pray, sir, your pardon.
   BERTRAM. Well, what would you say?
   HELENA. I am not worthy of the wealth I owe,
+    Nor dare I say 'tis mine, and yet it is;
