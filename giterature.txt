@@ -4049,3 +4049,4 @@ Enter LAFEU and BERTRAM
   BERTRAM. I pray you, stay not, but in haste to horse.
   HELENA. I shall not break your bidding, good my lord.
   BERTRAM. Where are my other men, monsieur?
+    Farewell!                                        Exit HELENA
