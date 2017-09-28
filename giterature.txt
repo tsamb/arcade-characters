@@ -4051,3 +4051,4 @@ Enter LAFEU and BERTRAM
   BERTRAM. Where are my other men, monsieur?
     Farewell!                                        Exit HELENA
     Go thou toward home, where I will never come
+    Whilst I can shake my sword or hear the drum.
