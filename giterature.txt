@@ -4164,3 +4164,4 @@ Enter COUNTESS and CLOWN
     write a "never."
     This is a dreadful sentence.
   COUNTESS. Brought you this letter, gentlemen?
+  FIRST GENTLEMAN. Ay, madam;
