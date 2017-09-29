@@ -4191,3 +4191,4 @@ Enter COUNTESS and CLOWN
     And call her hourly mistress. Who was with him?
   SECOND GENTLEMAN. A servant only, and a gentleman
     Which I have sometime known.
+  COUNTESS. Parolles, was it not?
