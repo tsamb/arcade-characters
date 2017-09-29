@@ -4182,3 +4182,4 @@ Enter COUNTESS and CLOWN
     'Tis bitter.
   COUNTESS. Find you that there?
   HELENA. Ay, madam.
+  SECOND GENTLEMAN. 'Tis but the boldness of his hand haply, which
