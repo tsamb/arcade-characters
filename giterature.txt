@@ -4277,3 +4277,4 @@ Enter COUNTESS and STEWARD
     By sending me a letter? Read it again.
   STEWARD.  [Reads]  'I am Saint Jaques' pilgrim, thither gone.
     Ambitious love hath so in me offended
+    That barefoot plod I the cold ground upon,
