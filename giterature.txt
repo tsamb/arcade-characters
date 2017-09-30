@@ -4238,3 +4238,4 @@ Enter COUNTESS and CLOWN
     And angels offic'd all. I will be gone,
     That pitiful rumour may report my flight
     To consolate thine ear. Come, night; end, day.
+    For with the dark, poor thief, I'll steal away.         Exit
