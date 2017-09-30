@@ -4276,3 +4276,4 @@ Enter COUNTESS and STEWARD
     Might you not know she would do as she has done
     By sending me a letter? Read it again.
   STEWARD.  [Reads]  'I am Saint Jaques' pilgrim, thither gone.
+    Ambitious love hath so in me offended
