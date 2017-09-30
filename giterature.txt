@@ -4275,3 +4275,4 @@ Enter COUNTESS and STEWARD
   COUNTESS. Alas! and would you take the letter of her?
     Might you not know she would do as she has done
     By sending me a letter? Read it again.
+  STEWARD.  [Reads]  'I am Saint Jaques' pilgrim, thither gone.
