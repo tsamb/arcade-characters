@@ -4548,3 +4548,4 @@ Enter BERTRAM, and the two FRENCH LORDS
   SECOND LORD. As't please your lordship. I'll leave you.   Exit
   BERTRAM. Now will I lead you to the house, and show you
     The lass I spoke of.
+  FIRST LORD. But you say she's honest.
