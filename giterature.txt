@@ -4861,3 +4861,4 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     presence must be the whip of the other.
   SECOND LORD. In the meantime, what hear you of these wars?
   FIRST LORD. I hear there is an overture of peace.
+  SECOND LORD. Nay, I assure you, a peace concluded.
