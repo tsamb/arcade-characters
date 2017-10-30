@@ -4936,3 +4936,4 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     have the patience to hear it.
 
                    Enter PAROLLES guarded, and
+                  FIRST SOLDIER as interpreter
