@@ -4997,3 +4997,4 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
   PAROLLES. I beseech you, let me answer to the particular of the
     inter'gatories. Demand them singly.
   FIRST SOLDIER. Do you know this Captain Dumain?
+  PAROLLES. I know him: 'a was a botcher's prentice in Paris, from
