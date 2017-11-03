@@ -5137,3 +5137,4 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     Rust, sword; cool, blushes; and, Parolles, live
     Safest in shame. Being fool'd, by fool'ry thrive.
     There's place and means for every man alive.
+    I'll after them.                                        Exit
