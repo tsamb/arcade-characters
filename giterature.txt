@@ -5113,3 +5113,4 @@ Enter the two FRENCH LORDS, and two or three SOLDIERS
     friends.  [Unmuffling him]  So look about you; know you any here?
   BERTRAM. Good morrow, noble Captain.
   FIRST LORD. God bless you, Captain Parolles.
+  SECOND LORD. God save you, noble Captain.
