@@ -5247,3 +5247,4 @@ Enter COUNTESS, LAFEU, and CLOWN
  Exit
   LAFEU. A shrewd knave, and an unhappy.
   COUNTESS. So 'a is. My lord that's gone made himself much  sport
+    out of him. By his authority he remains here, which he thinks is
