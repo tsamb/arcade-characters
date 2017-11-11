@@ -5260,3 +5260,4 @@ Enter COUNTESS, LAFEU, and CLOWN
     is no fitter matter. How does your ladyship like it?
   COUNTESS. With very much content, my lord; and I wish it happily
     effected.
+  LAFEU. His Highness comes post from Marseilles, of as able body as
