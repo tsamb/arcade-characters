@@ -5312,3 +5312,4 @@ Enter HELENA, WIDOW, and DIANA, with two ATTENDANTS
   HELENA. Sir, I have seen you in the court of France.
   GENTLEMAN. I have been sometimes there.
   HELENA. I do presume, sir, that you are not fall'n
+    From the report that goes upon your goodness;
