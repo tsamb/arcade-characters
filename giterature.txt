@@ -5377,3 +5377,4 @@ Enter CLOWN and PAROLLES
     use the carp as you may; for he looks like a poor, decayed,
     ingenious, foolish, rascally knave. I do pity his distress
     in my similes of comfort, and leave him to your lordship.
+ Exit
