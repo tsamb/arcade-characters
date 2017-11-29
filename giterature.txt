@@ -5393,3 +5393,4 @@ Enter CLOWN and PAROLLES
     hand. How does your drum?
   PAROLLES. O my good lord, you were the first that found me.
   LAFEU. Was I, in sooth? And I was the first that lost thee.
+  PAROLLES. It lies in you, my lord, to bring me in some grace, for
