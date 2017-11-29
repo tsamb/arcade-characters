@@ -5380,3 +5380,4 @@ Enter CLOWN and PAROLLES
  Exit
   PAROLLES. My lord, I am a man whom Fortune hath cruelly scratch'd.
   LAFEU. And what would you have me to do? 'Tis too late to pare her
+    nails now. Wherein have you played the knave with Fortune, that
