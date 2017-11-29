@@ -5324,3 +5324,4 @@ Enter HELENA, WIDOW, and DIANA, with two ATTENDANTS
     To come into his presence.
   GENTLEMAN. The King's not here.
   HELENA. Not here, sir?
+  GENTLEMAN. Not indeed.
