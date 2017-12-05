@@ -5444,3 +5444,4 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     So 'tis our will he should.
   GENTLEMAN. I shall, my liege.                 Exit GENTLEMAN
   KING. What says he to your daughter? Have you spoke?
+  LAFEU. All that he is hath reference to your Highness.
