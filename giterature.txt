@@ -5538,3 +5538,4 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     That you are well acquainted with yourself,
     Confess 'twas hers, and by what rough enforcement
     You got it from her. She call'd the saints to surety
+    That she would never put it from her finger
