@@ -5621,3 +5621,4 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     Either both or none.
   LAFEU.  [To BERTRAM]  Your reputation comes too short for
     my daughter; you are no husband for her.
+  BERTRAM. My lord, this is a fond and desp'rate creature
