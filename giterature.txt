@@ -5701,3 +5701,4 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
   PAROLLES. Faith, sir, he did love her; but how?
   KING. How, I pray you?
   PAROLLES. He did love her, sir, as a gentleman loves a woman.
+  KING. How is that?
