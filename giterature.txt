@@ -5723,3 +5723,4 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
     This ring, you say, was yours?
   DIANA. Ay, my good lord.
   KING. Where did you buy it? Or who gave it you?
+  DIANA. It was not given me, nor I did not buy it.
