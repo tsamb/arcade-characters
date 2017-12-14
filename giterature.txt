@@ -5726,3 +5726,4 @@ Flourish. Enter KING, COUNTESS, LAFEU, the two FRENCH LORDS, with ATTENDANTS
   DIANA. It was not given me, nor I did not buy it.
   KING. Who lent it you?
   DIANA. It was not lent me neither.
+  KING. Where did you find it then?
