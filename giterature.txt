@@ -5803,3 +5803,4 @@ EPILOGUE
                              EPILOGUE.
 
   KING. The King's a beggar, now the play is done.
+    All is well ended if this suit be won,
