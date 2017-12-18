@@ -5848,3 +5848,4 @@ DRAMATIS PERSONAE
   MENAS,      friend to Pompey
   MENECRATES,    "    "    "
   VARRIUS,       "    "    "
+  TAURUS, Lieutenant-General to Caesar
