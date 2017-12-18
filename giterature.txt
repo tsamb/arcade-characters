@@ -5842,3 +5842,4 @@ DRAMATIS PERSONAE
   MAECENAS,   friend to Caesar
   AGRIPPA,       "    "   "
   DOLABELLA,     "    "   "
+  PROCULEIUS,    "    "   "
