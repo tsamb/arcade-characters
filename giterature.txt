@@ -5853,3 +5853,4 @@ DRAMATIS PERSONAE
   SILIUS, an Officer in Ventidius's army
   EUPHRONIUS, an Ambassador from Antony to Caesar
   ALEXAS,   attendant on Cleopatra
+  MARDIAN,      "     "      "
