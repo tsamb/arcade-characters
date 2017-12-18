@@ -5835,3 +5835,4 @@ DRAMATIS PERSONAE
   DOMITIUS ENOBARBUS, friend to Antony
   VENTIDIUS,             "    "   "
   EROS,                  "    "   "
+  SCARUS,                "    "   "
