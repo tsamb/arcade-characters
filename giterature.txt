@@ -5856,3 +5856,4 @@ DRAMATIS PERSONAE
   MARDIAN,      "     "      "
   SELEUCUS,     "     "      "
   DIOMEDES,     "     "      "
+  A SOOTHSAYER
