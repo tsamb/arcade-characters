@@ -5845,3 +5845,4 @@ DRAMATIS PERSONAE
   PROCULEIUS,    "    "   "
   THYREUS,       "    "   "
   GALLUS,        "    "   "
+  MENAS,      friend to Pompey
