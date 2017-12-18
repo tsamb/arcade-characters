@@ -5836,3 +5836,4 @@ DRAMATIS PERSONAE
   VENTIDIUS,             "    "   "
   EROS,                  "    "   "
   SCARUS,                "    "   "
+  DERCETAS,              "    "   "
