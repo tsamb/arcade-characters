@@ -5839,3 +5839,4 @@ DRAMATIS PERSONAE
   DERCETAS,              "    "   "
   DEMETRIUS,             "    "   "
   PHILO,                 "    "   "
+  MAECENAS,   friend to Caesar
