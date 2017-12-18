@@ -5854,3 +5854,4 @@ DRAMATIS PERSONAE
   EUPHRONIUS, an Ambassador from Antony to Caesar
   ALEXAS,   attendant on Cleopatra
   MARDIAN,      "     "      "
+  SELEUCUS,     "     "      "
