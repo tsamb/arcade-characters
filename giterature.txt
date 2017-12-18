@@ -5834,3 +5834,4 @@ DRAMATIS PERSONAE
   SEXTUS POMPEIUS,         "
   DOMITIUS ENOBARBUS, friend to Antony
   VENTIDIUS,             "    "   "
+  EROS,                  "    "   "
