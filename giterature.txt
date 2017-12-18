@@ -5844,3 +5844,4 @@ DRAMATIS PERSONAE
   DOLABELLA,     "    "   "
   PROCULEIUS,    "    "   "
   THYREUS,       "    "   "
+  GALLUS,        "    "   "
