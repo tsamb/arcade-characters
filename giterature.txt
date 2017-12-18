@@ -5851,3 +5851,4 @@ DRAMATIS PERSONAE
   TAURUS, Lieutenant-General to Caesar
   CANIDIUS, Lieutenant-General to Antony
   SILIUS, an Officer in Ventidius's army
+  EUPHRONIUS, an Ambassador from Antony to Caesar
