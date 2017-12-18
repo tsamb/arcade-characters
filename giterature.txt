@@ -5857,3 +5857,4 @@ DRAMATIS PERSONAE
   SELEUCUS,     "     "      "
   DIOMEDES,     "     "      "
   A SOOTHSAYER
+  A CLOWN
