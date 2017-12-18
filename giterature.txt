@@ -5843,3 +5843,4 @@ DRAMATIS PERSONAE
   AGRIPPA,       "    "   "
   DOLABELLA,     "    "   "
   PROCULEIUS,    "    "   "
+  THYREUS,       "    "   "
