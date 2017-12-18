@@ -5850,3 +5850,4 @@ DRAMATIS PERSONAE
   VARRIUS,       "    "    "
   TAURUS, Lieutenant-General to Caesar
   CANIDIUS, Lieutenant-General to Antony
+  SILIUS, an Officer in Ventidius's army
