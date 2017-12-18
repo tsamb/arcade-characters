@@ -5846,3 +5846,4 @@ DRAMATIS PERSONAE
   THYREUS,       "    "   "
   GALLUS,        "    "   "
   MENAS,      friend to Pompey
+  MENECRATES,    "    "    "
