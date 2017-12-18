@@ -5837,3 +5837,4 @@ DRAMATIS PERSONAE
   EROS,                  "    "   "
   SCARUS,                "    "   "
   DERCETAS,              "    "   "
+  DEMETRIUS,             "    "   "
