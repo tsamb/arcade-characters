@@ -5849,3 +5849,4 @@ DRAMATIS PERSONAE
   MENECRATES,    "    "    "
   VARRIUS,       "    "    "
   TAURUS, Lieutenant-General to Caesar
+  CANIDIUS, Lieutenant-General to Antony
