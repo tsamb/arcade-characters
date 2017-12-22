@@ -5973,3 +5973,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   ALEXAS. Soothsayer!
   SOOTHSAYER. Your will?
   CHARMIAN. Is this the man? Is't you, sir, that know things?
+  SOOTHSAYER. In nature's infinite book of secrecy
