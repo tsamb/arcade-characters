@@ -5999,3 +5999,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
     marry me with Octavius Caesar, and companion me with my mistress.
   SOOTHSAYER. You shall outlive the lady whom you serve.
   CHARMIAN. O, excellent! I love long life better than figs.
+  SOOTHSAYER. You have seen and prov'd a fairer former fortune
