@@ -5992,3 +5992,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   CHARMIAN. Hush!
   SOOTHSAYER. You shall be more beloving than beloved.
   CHARMIAN. I had rather heat my liver with drinking.
+  ALEXAS. Nay, hear him.
