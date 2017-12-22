@@ -5983,3 +5983,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
     Cleopatra's health to drink.
   CHARMIAN. Good, sir, give me good fortune.
   SOOTHSAYER. I make not, but foresee.
+  CHARMIAN. Pray, then, foresee me one.
