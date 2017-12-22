@@ -5990,3 +5990,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   CHARMIAN. Wrinkles forbid!
   ALEXAS. Vex not his prescience; be attentive.
   CHARMIAN. Hush!
+  SOOTHSAYER. You shall be more beloving than beloved.
