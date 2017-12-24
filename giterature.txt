@@ -6014,3 +6014,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   IRAS. There's a palm presages chastity, if nothing else.
   CHARMIAN. E'en as the o'erflowing Nilus presageth famine.
   IRAS. Go, you wild bedfellow, you cannot soothsay.
+  CHARMIAN. Nay, if an oily palm be not a fruitful prognostication, I
