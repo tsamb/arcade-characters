@@ -6187,3 +6187,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
 
   CLEOPATRA. Where is he?
   CHARMIAN. I did not see him since.
+  CLEOPATRA. See where he is, who's with him, what he does.
