@@ -6192,3 +6192,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
     Say I am dancing; if in mirth, report
     That I am sudden sick. Quick, and return.        Exit ALEXAS
   CHARMIAN. Madam, methinks, if you did love him dearly,
+    You do not hold the method to enforce
