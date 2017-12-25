@@ -6139,3 +6139,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   ANTONY. Fulvia is dead.
   ENOBARBUS. Sir?
   ANTONY. Fulvia is dead.
+  ENOBARBUS. Fulvia?
