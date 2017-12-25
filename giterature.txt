@@ -6141,3 +6141,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
   ANTONY. Fulvia is dead.
   ENOBARBUS. Fulvia?
   ANTONY. Dead.
+  ENOBARBUS. Why, sir, give the gods a thankful sacrifice. When it
