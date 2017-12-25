@@ -6150,3 +6150,4 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
     consolation: your old smock brings forth a new petticoat; and
     indeed the tears live in an onion that should water this sorrow.
   ANTONY. The business she hath broached in the state
+    Cannot endure my absence.
