@@ -6360,3 +6360,4 @@ Enter OCTAVIUS CAESAR, reading a letter; LEPIDUS, and their train
                    Enter a MESSENGER
 
   LEPIDUS. Here's more news.
+  MESSENGER. Thy biddings have been done; and every hour,
