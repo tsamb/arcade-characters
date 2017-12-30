@@ -6409,3 +6409,4 @@ Enter OCTAVIUS CAESAR, reading a letter; LEPIDUS, and their train
     Thrives in our idleness.
   LEPIDUS. To-morrow, Caesar,
     I shall be furnish'd to inform you rightly
+    Both what by sea and land I can be able
