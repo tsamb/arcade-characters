@@ -6511,3 +6511,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
     Say 'the brave Antony.'
   CHARMIAN. The valiant Caesar!
   CLEOPATRA. By Isis, I will give thee bloody teeth
+    If thou with Caesar paragon again
