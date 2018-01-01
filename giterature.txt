@@ -6436,3 +6436,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
     My Antony is away.
   CHARMIAN. You think of him too much.
   CLEOPATRA. O, 'tis treason!
+  CHARMIAN. Madam, I trust, not so.
