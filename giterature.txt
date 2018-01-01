@@ -6438,3 +6438,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
   CLEOPATRA. O, 'tis treason!
   CHARMIAN. Madam, I trust, not so.
   CLEOPATRA. Thou, eunuch Mardian!
+  MARDIAN. What's your Highness' pleasure?
