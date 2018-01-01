@@ -6509,3 +6509,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
   CHARMIAN. O that brave Caesar!
   CLEOPATRA. Be chok'd with such another emphasis!
     Say 'the brave Antony.'
+  CHARMIAN. The valiant Caesar!
