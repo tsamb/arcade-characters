@@ -6505,3 +6505,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
     When I forget to send to Antony
     Shall die a beggar. Ink and paper, Charmian.
     Welcome, my good Alexas. Did I, Charmian,
+    Ever love Caesar so?
