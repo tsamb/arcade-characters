@@ -6445,3 +6445,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
     May not fly forth of Egypt. Hast thou affections?
   MARDIAN. Yes, gracious madam.
   CLEOPATRA. Indeed?
+  MARDIAN. Not in deed, madam; for I can do nothing
