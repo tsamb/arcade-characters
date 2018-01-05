@@ -6554,3 +6554,4 @@ Enter POMPEY, MENECRATES, and MENAS, in warlike manner
     Are in the field. A mighty strength they carry.
   POMPEY. Where have you this? 'Tis false.
   MENAS. From Silvius, sir.
+  POMPEY. He dreams. I know they are in Rome together,
