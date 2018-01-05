@@ -6553,3 +6553,4 @@ Enter POMPEY, MENECRATES, and MENAS, in warlike manner
   MENAS. Caesar and Lepidus
     Are in the field. A mighty strength they carry.
   POMPEY. Where have you this? 'Tis false.
+  MENAS. From Silvius, sir.
