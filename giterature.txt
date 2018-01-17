@@ -6613,3 +6613,4 @@ Enter ENOBARBUS and LEPIDUS
     And speak as loud as Mars. By Jupiter,
     Were I the wearer of Antonius' beard,
     I would not shave't to-day.
+  LEPIDUS. 'Tis not a time
