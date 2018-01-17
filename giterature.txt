@@ -6649,3 +6649,4 @@ Enter ENOBARBUS and LEPIDUS
   CAESAR. Sit.
   ANTONY. Sit, sir.
   CAESAR. Nay, then.                                  [They sit]
+  ANTONY. I learn you take things ill which are not so,
