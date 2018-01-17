@@ -6646,3 +6646,4 @@ Enter ENOBARBUS and LEPIDUS
     I should do thus.                                 [Flourish]
   CAESAR. Welcome to Rome.
   ANTONY. Thank you.
+  CAESAR. Sit.
