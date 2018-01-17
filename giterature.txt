@@ -6647,3 +6647,4 @@ Enter ENOBARBUS and LEPIDUS
   CAESAR. Welcome to Rome.
   ANTONY. Thank you.
   CAESAR. Sit.
+  ANTONY. Sit, sir.
