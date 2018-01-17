@@ -6648,3 +6648,4 @@ Enter ENOBARBUS and LEPIDUS
   ANTONY. Thank you.
   CAESAR. Sit.
   ANTONY. Sit, sir.
+  CAESAR. Nay, then.                                  [They sit]
