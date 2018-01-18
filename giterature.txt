@@ -6776,3 +6776,4 @@ Enter ENOBARBUS and LEPIDUS
     For 'tis a studied, not a present thought,
     By duty ruminated.
   ANTONY. Will Caesar speak?
+  CAESAR. Not till he hears how Antony is touch'd
