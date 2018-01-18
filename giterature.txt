@@ -6777,3 +6777,4 @@ Enter ENOBARBUS and LEPIDUS
     By duty ruminated.
   ANTONY. Will Caesar speak?
   CAESAR. Not till he hears how Antony is touch'd
+    With what is spoke already.
