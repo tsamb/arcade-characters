@@ -6806,3 +6806,4 @@ Enter ENOBARBUS and LEPIDUS
   ANTONY. Where lies he?
   CAESAR. About the Mount Misenum.
   ANTONY. What is his strength by land?
+  CAESAR. Great and increasing; but by sea
