@@ -6805,3 +6805,4 @@ Enter ENOBARBUS and LEPIDUS
     Or else he seeks out us.
   ANTONY. Where lies he?
   CAESAR. About the Mount Misenum.
+  ANTONY. What is his strength by land?
