@@ -6741,3 +6741,4 @@ Enter ENOBARBUS and LEPIDUS
     You shall have time to wrangle in when you have nothing else to
     do.
   ANTONY. Thou art a soldier only. Speak no more.
+  ENOBARBUS. That truth should be silent I had almost forgot.
