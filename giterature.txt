@@ -6778,3 +6778,4 @@ Enter ENOBARBUS and LEPIDUS
   ANTONY. Will Caesar speak?
   CAESAR. Not till he hears how Antony is touch'd
     With what is spoke already.
+  ANTONY. What power is in Agrippa,
