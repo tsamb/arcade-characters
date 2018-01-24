@@ -6823,3 +6823,4 @@ Enter ENOBARBUS and LEPIDUS
   MAECENAS. Welcome from Egypt, sir.
   ENOBARBUS. Half the heart of Caesar, worthy Maecenas! My honourable
     friend, Agrippa!
+  AGRIPPA. Good Enobarbus!
