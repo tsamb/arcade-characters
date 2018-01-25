@@ -6918,3 +6918,4 @@ Enter ANTONY, CAESAR, OCTAVIA between them
     I have not kept my square; but that to come
     Shall all be done by th' rule. Good night, dear lady.
   OCTAVIA. Good night, sir.
+  CAESAR. Good night.                  Exeunt CAESAR and OCTAVIA
