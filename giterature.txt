@@ -6923,3 +6923,4 @@ Enter ANTONY, CAESAR, OCTAVIA between them
                         Enter SOOTHSAYER
 
   ANTONY. Now, sirrah, you do wish yourself in Egypt?
+  SOOTHSAYER. Would I had never come from thence, nor you thither!
