@@ -6960,3 +6960,4 @@ Enter ANTONY, CAESAR, OCTAVIA between them
                        Enter VENTIDIUS
 
     O, come, Ventidius,
+    You must to Parthia. Your commission's ready;
