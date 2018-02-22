@@ -7137,3 +7137,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
     And be undone by 'em!                         Exit MESSENGER
   CHARMIAN. Good your Highness, patience.
   CLEOPATRA. In praising Antony I have disprais'd Caesar.
+  CHARMIAN. Many times, madam.
