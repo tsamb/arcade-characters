@@ -7117,3 +7117,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
   CLEOPATRA. Is he married?
     I cannot hate thee worser than I do
     If thou again say 'Yes.'
+  MESSENGER. He's married, madam.
