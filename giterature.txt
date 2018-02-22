@@ -7119,3 +7119,4 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
     If thou again say 'Yes.'
   MESSENGER. He's married, madam.
   CLEOPATRA. The gods confound thee! Dost thou hold there still?
+  MESSENGER. Should I lie, madam?
