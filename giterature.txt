@@ -7238,3 +7238,4 @@ with soldiers marching
     And seal'd between us.
   CAESAR. That's the next to do.
   POMPEY. We'll feast each other ere we part, and let's
+    Draw lots who shall begin.
