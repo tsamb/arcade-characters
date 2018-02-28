@@ -7274,3 +7274,4 @@ with soldiers marching
   ENOBARBUS. At sea, I think.
   MENAS. We have, sir.
   ENOBARBUS. You have done well by water.
+  MENAS. And you by land.
