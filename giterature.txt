@@ -7361,3 +7361,4 @@ ACT_2|SC_7
   POMPEY. Sit- and some wine! A health to Lepidus!
   LEPIDUS. I am not so well as I should be, but I'll ne'er out.
   ENOBARBUS. Not till you have slept. I fear me you'll be in till
+    then.
