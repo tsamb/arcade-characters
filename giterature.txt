@@ -7319,3 +7319,4 @@ with soldiers marching
   MENAS. Come, let's away.                                Exeunt
 
 ACT_2|SC_7
+                           SCENE VII.
