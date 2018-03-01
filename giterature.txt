@@ -7379,3 +7379,4 @@ ACT_2|SC_7
   LEPIDUS. What colour is it of?
   ANTONY. Of it own colour too.
   LEPIDUS. 'Tis a strange serpent.
+  ANTONY. 'Tis so. And the tears of it are wet.
