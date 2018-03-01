@@ -7355,3 +7355,4 @@ ACT_2|SC_7
     And shortly comes to harvest.
   LEPIDUS. Y'have strange serpents there.
   ANTONY. Ay, Lepidus.
+  LEPIDUS. Your serpent of Egypt is bred now of your mud by the
