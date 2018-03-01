@@ -7398,3 +7398,4 @@ ACT_2|SC_7
     Keep off them, for you sink.
   MENAS. Wilt thou be lord of all the world?
   POMPEY. What say'st thou?
+  MENAS. Wilt thou be lord of the whole world? That's twice.
