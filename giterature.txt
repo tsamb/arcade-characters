@@ -7381,3 +7381,4 @@ ACT_2|SC_7
   LEPIDUS. 'Tis a strange serpent.
   ANTONY. 'Tis so. And the tears of it are wet.
   CAESAR. Will this description satisfy him?
+  ANTONY. With the health that Pompey gives him, else he is a very
