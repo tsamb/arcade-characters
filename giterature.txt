@@ -7399,3 +7399,4 @@ ACT_2|SC_7
   MENAS. Wilt thou be lord of all the world?
   POMPEY. What say'st thou?
   MENAS. Wilt thou be lord of the whole world? That's twice.
+  POMPEY. How should that be?
