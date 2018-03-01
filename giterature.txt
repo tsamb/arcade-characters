@@ -7373,3 +7373,4 @@ ACT_2|SC_7
     This wine for Lepidus!
   LEPIDUS. What manner o' thing is your crocodile?
   ANTONY. It is shap'd, sir, like itself, and it is as broad as it
+    hath breadth; it is just so high as it is, and moves with it own
