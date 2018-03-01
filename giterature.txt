@@ -7378,3 +7378,4 @@ ACT_2|SC_7
     once out of it, it transmigrates.
   LEPIDUS. What colour is it of?
   ANTONY. Of it own colour too.
+  LEPIDUS. 'Tis a strange serpent.
