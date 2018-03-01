@@ -7318,3 +7318,4 @@ with soldiers marching
   ENOBARBUS. I shall take it, sir. We have us'd our throats in Egypt.
   MENAS. Come, let's away.                                Exeunt
 
+ACT_2|SC_7
