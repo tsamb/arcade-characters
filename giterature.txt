@@ -7429,3 +7429,4 @@ ACT_2|SC_7
   ANTONY. Bear him ashore. I'll pledge it for him, Pompey.
   ENOBARBUS. Here's to thee, Menas!
   MENAS. Enobarbus, welcome!
+  POMPEY. Fill till the cup be hid.
