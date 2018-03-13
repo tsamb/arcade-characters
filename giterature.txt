@@ -7453,3 +7453,4 @@ ACT_2|SC_7
     And celebrate our drink?
   POMPEY. Let's ha't, good soldier.
   ANTONY. Come, let's all take hands,
+    Till that the conquering wine hath steep'd our sense
