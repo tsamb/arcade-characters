@@ -7441,3 +7441,4 @@ ACT_2|SC_7
   POMPEY. This is not yet an Alexandrian feast.
   ANTONY. It ripens towards it. Strike the vessels, ho!
     Here's to Caesar!
+  CAESAR. I could well forbear't.
