@@ -7431,3 +7431,4 @@ ACT_2|SC_7
   MENAS. Enobarbus, welcome!
   POMPEY. Fill till the cup be hid.
   ENOBARBUS. There's a strong fellow, Menas.
+               [Pointing to the servant who carries off LEPIDUS]
