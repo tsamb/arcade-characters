@@ -7430,3 +7430,4 @@ ACT_2|SC_7
   ENOBARBUS. Here's to thee, Menas!
   MENAS. Enobarbus, welcome!
   POMPEY. Fill till the cup be hid.
+  ENOBARBUS. There's a strong fellow, Menas.
