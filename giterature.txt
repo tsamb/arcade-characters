@@ -7423,3 +7423,4 @@ ACT_2|SC_7
     But must condemn it now. Desist, and drink.
   MENAS. [Aside] For this,
     I'll never follow thy pall'd fortunes more.
+    Who seeks, and will not take when once 'tis offer'd,
