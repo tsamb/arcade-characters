@@ -7428,3 +7428,4 @@ ACT_2|SC_7
   POMPEY. This health to Lepidus!
   ANTONY. Bear him ashore. I'll pledge it for him, Pompey.
   ENOBARBUS. Here's to thee, Menas!
+  MENAS. Enobarbus, welcome!
