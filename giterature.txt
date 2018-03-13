@@ -7452,3 +7452,4 @@ ACT_2|SC_7
     Shall we dance now the Egyptian Bacchanals
     And celebrate our drink?
   POMPEY. Let's ha't, good soldier.
+  ANTONY. Come, let's all take hands,
