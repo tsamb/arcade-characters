@@ -7447,3 +7447,4 @@ ACT_2|SC_7
   ANTONY. Be a child o' th' time.
   CAESAR. Possess it, I'll make answer.
     But I had rather fast from all four days
+    Than drink so much in one.
