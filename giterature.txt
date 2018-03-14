@@ -7528,3 +7528,4 @@ ACT_3|SC_1
     The soldier's virtue, rather makes choice of loss
     Than gain which darkens him.
     I could do more to do Antonius good,
+    But 'twould offend him; and in his offence
