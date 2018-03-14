@@ -7496,3 +7496,4 @@ ACT_2|SC_7
 ACT_3|SC_1
                      ACT III. SCENE I.
                      A plain in Syria
+
