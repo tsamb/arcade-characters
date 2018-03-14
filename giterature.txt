@@ -7533,3 +7533,4 @@ ACT_3|SC_1
   SILIUS. Thou hast, Ventidius, that
     Without the which a soldier and his sword
     Grants scarce distinction. Thou wilt write to Antony?
+  VENTIDIUS. I'll humbly signify what in his name,
