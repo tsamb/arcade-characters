@@ -7526,3 +7526,4 @@ ACT_3|SC_1
     Who does i' th' wars more than his captain can
     Becomes his captain's captain; and ambition,
     The soldier's virtue, rather makes choice of loss
+    Than gain which darkens him.
