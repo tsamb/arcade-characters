@@ -7485,3 +7485,4 @@ ACT_2|SC_7
     Come, down into the boat.
   ENOBARBUS. Take heed you fall not.
                               Exeunt all but ENOBARBUS and MENAS
+    Menas, I'll not on shore.
