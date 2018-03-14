@@ -7495,3 +7495,4 @@ ACT_2|SC_7
   MENAS. Hoo! Noble Captain, come.                        Exeunt
 ACT_3|SC_1
                      ACT III. SCENE I.
+                     A plain in Syria
