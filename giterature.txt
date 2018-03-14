@@ -7497,3 +7497,4 @@ ACT_3|SC_1
                      ACT III. SCENE I.
                      A plain in Syria
 
+       Enter VENTIDIUS, as it were in triumph, with SILIUS
