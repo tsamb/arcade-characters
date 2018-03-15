@@ -7558,3 +7558,4 @@ ACT_3|SC_2
   AGRIPPA. 'Tis a noble Lepidus.
   ENOBARBUS. A very fine one. O, how he loves Caesar!
   AGRIPPA. Nay, but how dearly he adores Mark Antony!
+  ENOBARBUS. Caesar? Why he's the Jupiter of men.
