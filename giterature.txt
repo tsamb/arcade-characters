@@ -7545,3 +7545,4 @@ ACT_3|SC_1
                                                           Exeunt
 
 ACT_3|SC_2
+                            SCENE II. Rome. CAESAR'S house
