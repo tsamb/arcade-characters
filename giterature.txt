@@ -7539,3 +7539,4 @@ ACT_3|SC_1
     The ne'er-yet-beaten horse of Parthia
     We have jaded out o' th' field.
   SILIUS. Where is he now?
+  VENTIDIUS. He purposeth to Athens; whither, with what haste
