@@ -7547,3 +7547,4 @@ ACT_3|SC_1
 ACT_3|SC_2
                             SCENE II. Rome. CAESAR'S house
 
+        Enter AGRIPPA at one door, ENOBARBUS at another
