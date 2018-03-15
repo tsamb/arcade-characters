@@ -7562,3 +7562,4 @@ ACT_3|SC_2
   AGRIPPA. What's Antony? The god of Jupiter.
   ENOBARBUS. Spake you of Caesar? How! the nonpareil!
   AGRIPPA. O, Antony! O thou Arabian bird!
+  ENOBARBUS. Would you praise Caesar, say 'Caesar'- go no further.
