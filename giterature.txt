@@ -7564,3 +7564,4 @@ ACT_3|SC_2
   AGRIPPA. O, Antony! O thou Arabian bird!
   ENOBARBUS. Would you praise Caesar, say 'Caesar'- go no further.
   AGRIPPA. Indeed, he plied them both with excellent praises.
+  ENOBARBUS. But he loves Caesar best. Yet he loves Antony.
