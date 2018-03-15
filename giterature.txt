@@ -7575,3 +7575,4 @@ ACT_3|SC_2
     This is to horse. Adieu, noble Agrippa.
   AGRIPPA. Good fortune, worthy soldier, and farewell.
 
+           Enter CAESAR, ANTONY, LEPIDUS, and OCTAVIA
