@@ -7638,3 +7638,4 @@ ACT_3|SC_2
 ACT_3|SC_3
                           SCENE III.
               Alexandria. CLEOPATRA'S palace
+
