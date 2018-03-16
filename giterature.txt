@@ -7611,3 +7611,4 @@ ACT_3|SC_2
     And neither way inclines.
   ENOBARBUS. [Aside to AGRIPPA] Will Caesar weep?
   AGRIPPA. [Aside to ENOBARBUS] He has a cloud in's face.
+  ENOBARBUS. [Aside to AGRIPPA] He were the worse for that, were he a
