@@ -7614,3 +7614,4 @@ ACT_3|SC_2
   ENOBARBUS. [Aside to AGRIPPA] He were the worse for that, were he a
       horse;
     So is he, being a man.
+  AGRIPPA. [Aside to ENOBARBUS] Why, Enobarbus,
