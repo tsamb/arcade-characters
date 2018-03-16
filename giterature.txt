@@ -7657,3 +7657,4 @@ ACT_3|SC_3
   MESSENGER. Most gracious Majesty!
   CLEOPATRA. Didst thou behold Octavia?
   MESSENGER. Ay, dread Queen.
+  CLEOPATRA. Where?
