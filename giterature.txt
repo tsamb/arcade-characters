@@ -7606,3 +7606,4 @@ ACT_3|SC_2
   CAESAR. What, Octavia?
   OCTAVIA. I'll tell you in your ear.
   ANTONY. Her tongue will not obey her heart, nor can
+    Her heart inform her tongue- the swan's down feather,
