@@ -7610,3 +7610,4 @@ ACT_3|SC_2
     That stands upon the swell at the full of tide,
     And neither way inclines.
   ENOBARBUS. [Aside to AGRIPPA] Will Caesar weep?
+  AGRIPPA. [Aside to ENOBARBUS] He has a cloud in's face.
