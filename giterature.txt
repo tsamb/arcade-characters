@@ -7641,3 +7641,4 @@ ACT_3|SC_3
 
          Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
 
+  CLEOPATRA. Where is the fellow?
