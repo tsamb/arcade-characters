@@ -7685,3 +7685,4 @@ ACT_3|SC_3
   CLEOPATRA. Guess at her years, I prithee.
   MESSENGER. Madam,
     She was a widow.
+  CLEOPATRA. Widow? Charmian, hark!
