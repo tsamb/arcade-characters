@@ -7663,3 +7663,4 @@ ACT_3|SC_3
     Between her brother and Mark Antony.
   CLEOPATRA. Is she as tall as me?
   MESSENGER. She is not, madam.
+  CLEOPATRA. Didst hear her speak? Is she shrill-tongu'd or low?
