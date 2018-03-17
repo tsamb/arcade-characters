@@ -7665,3 +7665,4 @@ ACT_3|SC_3
   MESSENGER. She is not, madam.
   CLEOPATRA. Didst hear her speak? Is she shrill-tongu'd or low?
   MESSENGER. Madam, I heard her speak: she is low-voic'd.
+  CLEOPATRA. That's not so good. He cannot like her long.
