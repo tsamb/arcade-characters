@@ -7704,3 +7704,4 @@ ACT_3|SC_3
     This creature's no such thing.
   CHARMIAN. Nothing, madam.
   CLEOPATRA. The man hath seen some majesty, and should know.
+  CHARMIAN. Hath he seen majesty? Isis else defend,
