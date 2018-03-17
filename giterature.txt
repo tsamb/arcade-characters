@@ -7693,3 +7693,4 @@ ACT_3|SC_3
     Her hair, what colour?
   MESSENGER. Brown, madam; and her forehead
     As low as she would wish it.
+  CLEOPATRA. There's gold for thee.
