@@ -7689,3 +7689,4 @@ ACT_3|SC_3
   MESSENGER. And I do think she's thirty.
   CLEOPATRA. Bear'st thou her face in mind? Is't long or round?
   MESSENGER. Round even to faultiness.
+  CLEOPATRA. For the most part, too, they are foolish that are so.
