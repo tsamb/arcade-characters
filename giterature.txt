@@ -7686,3 +7686,4 @@ ACT_3|SC_3
   MESSENGER. Madam,
     She was a widow.
   CLEOPATRA. Widow? Charmian, hark!
+  MESSENGER. And I do think she's thirty.
