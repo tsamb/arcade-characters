@@ -7734,3 +7734,4 @@ ACT_3|SC_4
     Praying for both parts.
     The good gods will mock me presently
     When I shall pray 'O, bless my lord and husband!'
+    Undo that prayer by crying out as loud
