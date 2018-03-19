@@ -7759,3 +7759,4 @@ ACT_3|SC_4
     Choose your own company, and command what cost
     Your heart has mind to.                               Exeunt
 
+ACT_3|SC_5
