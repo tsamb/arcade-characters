@@ -7772,3 +7772,4 @@ ACT_3|SC_5
   ENOBARBUS. This is old. What is the success?
   EROS. Caesar, having made use of him in the wars 'gainst Pompey,
     presently denied him rivality, would not let him partake in the
+    glory of the action; and not resting here, accuses him of letters
