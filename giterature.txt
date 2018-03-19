@@ -7770,3 +7770,4 @@ ACT_3|SC_5
   ENOBARBUS. What, man?
   EROS. Caesar and Lepidus have made wars upon Pompey.
   ENOBARBUS. This is old. What is the success?
+  EROS. Caesar, having made use of him in the wars 'gainst Pompey,
