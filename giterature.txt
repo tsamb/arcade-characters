@@ -7767,3 +7767,4 @@ ACT_3|SC_5
 
   ENOBARBUS. How now, friend Eros!
   EROS. There's strange news come, sir.
+  ENOBARBUS. What, man?
