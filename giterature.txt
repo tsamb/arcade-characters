@@ -7769,3 +7769,4 @@ ACT_3|SC_5
   EROS. There's strange news come, sir.
   ENOBARBUS. What, man?
   EROS. Caesar and Lepidus have made wars upon Pompey.
+  ENOBARBUS. This is old. What is the success?
