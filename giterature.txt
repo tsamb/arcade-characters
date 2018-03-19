@@ -7765,3 +7765,4 @@ ACT_3|SC_5
 
              Enter ENOBARBUS and EROS, meeting
 
+  ENOBARBUS. How now, friend Eros!
