@@ -7844,3 +7844,4 @@ ACT_3|SC_6
                 Enter OCTAVIA, with her train
 
   OCTAVIA. Hail, Caesar, and my lord! hail, most dear Caesar!
+  CAESAR. That ever I should call thee cast-away!
