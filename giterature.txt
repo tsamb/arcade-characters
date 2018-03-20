@@ -7794,3 +7794,4 @@ ACT_3|SC_6
                           SCENE VI.
                    Rome. CAESAR'S house
 
+             Enter CAESAR, AGRIPPA, and MAECENAS
