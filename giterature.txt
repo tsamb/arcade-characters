@@ -7839,3 +7839,4 @@ ACT_3|SC_6
     And other of his conquer'd kingdoms,
     Demand the like.
   MAECENAS. He'll never yield to that.
+  CAESAR. Nor must not then be yielded to in this.
