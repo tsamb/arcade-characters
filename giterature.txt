@@ -7791,3 +7791,4 @@ ACT_3|SC_5
   EROS. Come, sir.                                        Exeunt
 
 ACT_3|SC_6
+                          SCENE VI.
