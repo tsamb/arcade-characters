@@ -7796,3 +7796,4 @@ ACT_3|SC_6
 
              Enter CAESAR, AGRIPPA, and MAECENAS
 
+  CAESAR. Contemning Rome, he has done all this and more
