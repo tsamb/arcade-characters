@@ -7866,3 +7866,4 @@ ACT_3|SC_6
     Hearing that you prepar'd for war, acquainted
     My grieved ear withal; whereon I begg'd
     His pardon for return.
+  CAESAR. Which soon he granted,
