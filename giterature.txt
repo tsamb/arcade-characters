@@ -7871,3 +7871,4 @@ ACT_3|SC_6
   OCTAVIA. Do not say so, my lord.
   CAESAR. I have eyes upon him,
     And his affairs come to me on the wind.
+    Where is he now?
