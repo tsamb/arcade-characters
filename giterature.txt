@@ -7890,3 +7890,4 @@ ACT_3|SC_6
     That does afflict each other!
   CAESAR. Welcome hither.
     Your letters did withhold our breaking forth,
+    Till we perceiv'd both how you were wrong led
