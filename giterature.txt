@@ -7919,3 +7919,4 @@ ACT_3|SC_7
                 Enter CLEOPATRA and ENOBARBUS
 
   CLEOPATRA. I will be even with thee, doubt it not.
+  ENOBARBUS. But why, why,
