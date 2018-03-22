@@ -7957,3 +7957,4 @@ ACT_3|SC_7
     To taunt at slackness. Canidius, we
     Will fight with him by sea.
   CLEOPATRA. By sea! What else?
+  CANIDIUS. Why will my lord do so?
