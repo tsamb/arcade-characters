@@ -7953,3 +7953,4 @@ ACT_3|SC_7
   CLEOPATRA. Celerity is never more admir'd
     Than by the negligent.
   ANTONY. A good rebuke,
+    Which might have well becom'd the best of men
