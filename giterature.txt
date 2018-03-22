@@ -7946,3 +7946,4 @@ ACT_3|SC_7
 
   ENOBARBUS. Nay, I have done.
     Here comes the Emperor.
+  ANTONY. Is it not strange, Canidius,
