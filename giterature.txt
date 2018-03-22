@@ -7925,3 +7925,4 @@ ACT_3|SC_7
   ENOBARBUS. Well, is it, is it?
   CLEOPATRA. Is't not denounc'd against us? Why should not we
     Be there in person?
+  ENOBARBUS. [Aside] Well, I could reply:
