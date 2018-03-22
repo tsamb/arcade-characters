@@ -7958,3 +7958,4 @@ ACT_3|SC_7
     Will fight with him by sea.
   CLEOPATRA. By sea! What else?
   CANIDIUS. Why will my lord do so?
+  ANTONY. For that he dares us to't.
