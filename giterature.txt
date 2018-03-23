@@ -8000,3 +8000,4 @@ ACT_3|SC_7
 
                        Enter a SOLDIER
 
+    How now, worthy soldier?
