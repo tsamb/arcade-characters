@@ -8028,3 +8028,4 @@ ACT_3|SC_7
 
                         Enter a MESSENGER
 
+  MESSENGER. The Emperor calls Canidius.
