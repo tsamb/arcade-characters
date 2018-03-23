@@ -8001,3 +8001,4 @@ ACT_3|SC_7
                        Enter a SOLDIER
 
     How now, worthy soldier?
+  SOLDIER. O noble Emperor, do not fight by sea;
