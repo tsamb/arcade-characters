@@ -7982,3 +7982,4 @@ ACT_3|SC_7
     From firm security.
   ANTONY. I'll fight at sea.
   CLEOPATRA. I have sixty sails, Caesar none better.
+  ANTONY. Our overplus of shipping will we burn,
