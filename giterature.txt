@@ -8029,3 +8029,4 @@ ACT_3|SC_7
                         Enter a MESSENGER
 
   MESSENGER. The Emperor calls Canidius.
+  CANIDIUS. With news the time's with labour and throes forth
