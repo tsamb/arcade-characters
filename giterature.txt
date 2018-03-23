@@ -7973,3 +7973,4 @@ ACT_3|SC_7
     Being prepar'd for land.
   ANTONY. By sea, by sea.
   ENOBARBUS. Most worthy sir, you therein throw away
+    The absolute soldiership you have by land;
