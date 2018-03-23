@@ -8002,3 +8002,4 @@ ACT_3|SC_7
 
     How now, worthy soldier?
   SOLDIER. O noble Emperor, do not fight by sea;
+    Trust not to rotten planks. Do you misdoubt
