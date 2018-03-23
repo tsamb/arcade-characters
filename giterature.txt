@@ -8010,3 +8010,4 @@ ACT_3|SC_7
   ANTONY. Well, well- away.
                          Exeunt ANTONY, CLEOPATRA, and ENOBARBUS
   SOLDIER. By Hercules, I think I am i' th' right.
+  CANIDIUS. Soldier, thou art; but his whole action grows
