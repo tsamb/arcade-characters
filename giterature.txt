@@ -8053,3 +8053,4 @@ ACT_3|SC_9
 
   ANTONY. Set we our squadrons on yon side o' th' hill,
     In eye of Caesar's battle; from which place
+    We may the number of the ships behold,
