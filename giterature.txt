@@ -8067,3 +8067,4 @@ ACT_3|SC_10
 
                     Alarum. Enter ENOBARBUS
 
+  ENOBARBUS. Naught, naught, all naught! I can behold no longer.
