@@ -8042,3 +8042,4 @@ ACT_3|SC_8
   TAURUS. My lord?
   CAESAR. Strike not by land; keep whole; provoke not battle
     Till we have done at sea. Do not exceed
+    The prescript of this scroll. Our fortune lies
