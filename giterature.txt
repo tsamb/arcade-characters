@@ -8033,3 +8033,4 @@ ACT_3|SC_7
     Each minute some.                                     Exeunt
 
 ACT_3|SC_8
+                          SCENE VIII.
