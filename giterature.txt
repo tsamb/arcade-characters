@@ -8040,3 +8040,4 @@ ACT_3|SC_8
 
   CAESAR. Taurus!
   TAURUS. My lord?
+  CAESAR. Strike not by land; keep whole; provoke not battle
