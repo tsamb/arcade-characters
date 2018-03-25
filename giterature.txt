@@ -8039,3 +8039,4 @@ ACT_3|SC_8
              Enter CAESAR, with his army, marching
 
   CAESAR. Taurus!
+  TAURUS. My lord?
