@@ -8134,3 +8134,4 @@ ACT_3|SC_11
   ALL. Fly? Not we!
   ANTONY. I have fled myself, and have instructed cowards
     To run and show their shoulders. Friends, be gone;
+    I have myself resolv'd upon a course
