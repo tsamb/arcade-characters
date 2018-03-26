@@ -8153,3 +8153,4 @@ ACT_3|SC_11
 
             Enter CLEOPATRA, led by CHARMIAN and IRAS,
                          EROS following
+
