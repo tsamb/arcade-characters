@@ -8122,3 +8122,4 @@ ACT_3|SC_10
 ACT_3|SC_11
                          SCENE XI.
               Alexandria. CLEOPATRA'S palace
+
