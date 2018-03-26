@@ -8117,3 +8117,4 @@ ACT_3|SC_10
     Show me the way of yielding.
   ENOBARBUS. I'll yet follow
     The wounded chance of Antony, though my reason
+    Sits in the wind against me.                          Exeunt
