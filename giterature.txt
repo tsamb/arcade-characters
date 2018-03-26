@@ -8133,3 +8133,4 @@ ACT_3|SC_11
     And make your peace with Caesar.
   ALL. Fly? Not we!
   ANTONY. I have fled myself, and have instructed cowards
+    To run and show their shoulders. Friends, be gone;
