@@ -8216,3 +8216,4 @@ ACT_3|SC_12
                          SCENE XII.
                    CAESAR'S camp in Egypt
 
+   Enter CAESAR, AGRIPPA, DOLABELLA, THYREUS, with others
