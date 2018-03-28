@@ -8196,3 +8196,4 @@ ACT_3|SC_11
     Command me.
   CLEOPATRA. O, my pardon!
   ANTONY. Now I must
+    To the young man send humble treaties, dodge
