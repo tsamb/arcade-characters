@@ -8251,3 +8251,4 @@ ACT_3|SC_12
     She shall not sue unheard. So to them both.
   EUPHRONIUS. Fortune pursue thee!
   CAESAR. Bring him through the bands.           Exit EUPHRONIUS
+    [To THYREUS] To try thy eloquence, now 'tis time. Dispatch;
