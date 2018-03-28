@@ -8187,3 +8187,4 @@ ACT_3|SC_11
     'Stroy'd in dishonour.
   CLEOPATRA. O my lord, my lord,
     Forgive my fearful sails! I little thought
+    You would have followed.
