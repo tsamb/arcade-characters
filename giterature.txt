@@ -8259,3 +8259,4 @@ ACT_3|SC_12
     The ne'er-touch'd vestal. Try thy cunning, Thyreus;
     Make thine own edict for thy pains, which we
     Will answer as a law.
+  THYREUS. Caesar, I go.
