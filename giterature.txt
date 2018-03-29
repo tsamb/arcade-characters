@@ -8273,3 +8273,4 @@ ACT_3|SC_13
 
   CLEOPATRA. What shall we do, Enobarbus?
   ENOBARBUS. Think, and die.
+  CLEOPATRA. Is Antony or we in fault for this?
