@@ -8261,3 +8261,4 @@ ACT_3|SC_12
     Will answer as a law.
   THYREUS. Caesar, I go.
   CAESAR. Observe how Antony becomes his flaw,
+    And what thou think'st his very action speaks
