@@ -8260,3 +8260,4 @@ ACT_3|SC_12
     Make thine own edict for thy pains, which we
     Will answer as a law.
   THYREUS. Caesar, I go.
+  CAESAR. Observe how Antony becomes his flaw,
