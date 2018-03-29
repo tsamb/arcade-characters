@@ -8262,3 +8262,4 @@ ACT_3|SC_12
   THYREUS. Caesar, I go.
   CAESAR. Observe how Antony becomes his flaw,
     And what thou think'st his very action speaks
+    In every power that moves.
