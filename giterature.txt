@@ -8276,3 +8276,4 @@ ACT_3|SC_13
   CLEOPATRA. Is Antony or we in fault for this?
   ENOBARBUS. Antony only, that would make his will
     Lord of his reason. What though you fled
+    From that great face of war, whose several ranges
