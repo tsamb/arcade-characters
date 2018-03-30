@@ -8370,3 +8370,4 @@ ACT_3|SC_13
   CLEOPATRA. What's your name?
   THYREUS. My name is Thyreus.
   CLEOPATRA. Most kind messenger,
+    Say to great Caesar this: in deputation
