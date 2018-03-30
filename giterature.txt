@@ -8343,3 +8343,4 @@ ACT_3|SC_13
     Whose he is we are, and that is Caesar's.
   THYREUS. So.
     Thus then, thou most renown'd: Caesar entreats
+    Not to consider in what case thou stand'st
