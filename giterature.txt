@@ -8416,3 +8416,4 @@ Character set encoding: UTF‐8
 
                                    And
 
+                              J. Kemp, M.A.
