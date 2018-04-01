@@ -8457,3 +8457,4 @@ Supplements to the First Book.
       Chapter VIII. On The Theory Of The Ludicrous.
       Chapter IX. On Logic In General.
       Chapter X. On The Syllogism.
+      Chapter XI. On Rhetoric.
