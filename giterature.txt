@@ -8459,3 +8459,4 @@ Supplements to the First Book.
       Chapter X. On The Syllogism.
       Chapter XI. On Rhetoric.
       Chapter XII. On The Doctrine Of Science.
+      Chapter XIII. On The Methods Of Mathematics.
