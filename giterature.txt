@@ -8606,3 +8606,4 @@ space and impenetrability; thus extension, figure, solidity, number,
 mobility. But this easily discovered Lockeian distinction was, as it were,
 only a youthful introduction to the distinction of Kant. The latter,
 starting from an incomparably higher standpoint, explains all that Locke
+had accepted as _primary qualities_, _i.e._, qualities of the thing in
