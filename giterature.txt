@@ -8930,3 +8930,4 @@ the dogmatic philosophers, and accordingly he started with them from the
 following assumptions:—(1.) Metaphysics is the science of that which lies
 beyond the possibility of all experience. (2.) Such a science can never be
 attained by applying principles which must first themselves be drawn from
+experience (_Prolegomena_, § 1); but only what we know _before_, and thus
