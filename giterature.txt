@@ -8928,3 +8928,4 @@ fundamental thought in which the aim of the whole “Critique of Pure
 Reason” lies. Kant placed himself at the standpoint of his predecessors,
 the dogmatic philosophers, and accordingly he started with them from the
 following assumptions:—(1.) Metaphysics is the science of that which lies
+beyond the possibility of all experience. (2.) Such a science can never be
