@@ -8973,3 +8973,4 @@ outer); the solution must rather be sought only in that at which we can
 arrive merely indirectly, that is, by means of inferences from universal
 principles _a priori_. After the principal source of all knowledge has in
 this way been excluded, and the direct way to truth has been closed, we
+must not wonder that the dogmatic systems failed, and that Kant was able
