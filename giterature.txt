@@ -9119,3 +9119,4 @@ But the following remarks must come first.
                   ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 
 It is astonishing how Kant, without further reflection, pursues his way,
+following his symmetry, ordering everything in accordance with it, without
