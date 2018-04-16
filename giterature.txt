@@ -9173,3 +9173,4 @@ V. 360, it is explained that what follows directly from a proposition is
 still a matter of the understanding, and that only those conclusions which
 are arrived at by the use of a mediating conception are the work of the
 reason, and the example given is this: From the proposition, “All men are
+mortal,” the inference, “Some mortals are men,” may be drawn by the mere
