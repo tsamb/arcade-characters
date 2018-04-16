@@ -9176,3 +9176,4 @@ reason, and the example given is this: From the proposition, “All men are
 mortal,” the inference, “Some mortals are men,” may be drawn by the mere
 understanding. On the other hand, to draw the conclusion, “All the learned
 are mortal,” demands an entirely different and far more important
+faculty—the reason. How was it possible for a great thinker to write the
