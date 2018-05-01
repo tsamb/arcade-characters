@@ -9594,3 +9594,4 @@ to use them more easily. But Kant ascribes the objects themselves to
 thought, in order to make experience and the objective world dependent
 upon _understanding_, yet without allowing understanding to be a faculty
 of _perception_. In this relation he certainly distinguishes perception
+from thought, but he makes particular things sometimes the object of
