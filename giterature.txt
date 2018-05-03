@@ -9636,3 +9636,4 @@ _object in itself_; it is an object that requires no subject; it is a
 particular thing, and yet not in space and time, because not perceptible;
 it is an object of thought, and yet not an abstract conception.
 Accordingly Kant really makes a triple division: (1.) the idea; (2.) the
+object of the idea; (3.) the thing in itself. The first belongs to the
