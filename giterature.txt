@@ -9655,3 +9655,4 @@ itself. The illicit introduction of that hybrid, the object of the idea,
 is the source of Kant’s errors; yet when it is taken away, the doctrine of
 the categories as conceptions _a priori_ also falls to the ground; for
 they bring nothing to the perception, and are not supposed to hold good of
+the thing in itself, but by means of them we only think those “objects of
