@@ -9732,3 +9732,4 @@ language bears the stamp of the thought from which it has proceeded, for
 style is the physiognomy of the mind. We have still to remark, that
 whenever Kant wishes to give an example for the purpose of fuller
 explanation, he almost always takes for this end the category of
+causality, and then what he has said turns out correct; for the law of
